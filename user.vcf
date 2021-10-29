@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Diego;Gonçalves;;;
-FN: Gonçalves  Diego
+N:Ana Karolina;Hajjar;;;
+FN: Hajjar  Karolina
 ORG:GH Wesco;
-TITLE:Pré vendas, 
-EMAIL;type=INTERNET;type=WORK;type=pref:diego@ghwesco.com.br
+TITLE:Diretora de operações e Jurídico, 
+EMAIL;type=INTERNET;type=WORK;type=pref:karolhajjar@ghwesco.com.br
 TEL;type=WORK;type=VOICE:021 99923 0873
 item1.ADR;type=WORK;type=pref:;;Rua da Alfândega 81\, Centro;;;138577;Rio de Janeiro
 item1.X-ABADR:sg
